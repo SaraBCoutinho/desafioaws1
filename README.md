@@ -1,3 +1,5 @@
+Projeto utilizando prompts em terminal vscode. 
+
 # Aplicação de Classificação de Texto
 
 Classifica textos como **Verdadeiro** ou **Falso** usando duas abordagens diferentes.
