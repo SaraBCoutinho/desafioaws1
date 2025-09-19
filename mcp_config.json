@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "classificador-texto": {
+      "command": "python3",
+      "args": ["mcp_server.py"],
+      "cwd": "/home/participant/sara-project"
+    }
+  }
+}
